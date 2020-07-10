@@ -1,7 +1,7 @@
 # Interactive Banking Exercise
 
 ### Description
-* For this interactive class exercises, we will ask questions about the [Banking database](./mariadb-banking-schema.png) document, then devise queries to answer those questions.
+* For this interactive class exercises, we will ask questions about the [Banking database](./mariadb-banking-schema.sql) document, then devise queries to answer those questions.
 
 <img src="banking-schema.png">
 
