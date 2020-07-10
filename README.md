@@ -1,9 +1,14 @@
 # Interactive Banking Exercise
 
-### Description
+## Description
 * For this interactive class exercises, we will ask questions about the [Banking database](./mariadb-banking-schema.sql) document, then devise queries to answer those questions.
 
 <img src="banking-schema.png">
+
+
+### Tasks to complete
+
+* Inject the solution to each of the enumerated tasks below in their respective `.sql` file.
 
 1. For each product, show the product name `Product` and the product type name `Type`.
 
